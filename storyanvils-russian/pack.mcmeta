@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "storyanvil.github.io",
+    "pack_format": 9,
+    "supported_formats": [9, 99]
+  }
+}
