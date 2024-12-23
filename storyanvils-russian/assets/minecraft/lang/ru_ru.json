@@ -1,6 +1,56 @@
 {
   "credit": "StoryAnvil (storyanvil.github.io)",
 
+  "itemGroup.create_power_loader.main": "Create: Power Loader",
+
+  "block.create_power_loader.empty_andesite_chunk_loader": "Пустой андезитовый загрузчик чанков",
+  "block.create_power_loader.andesite_chunk_loader": "Андезитовый загрузчик чанков",
+
+  "block.create_power_loader.empty_brass_chunk_loader": "Пустой медный загрузчик чанков",
+  "block.create_power_loader.brass_chunk_loader": "Загрузчик чанков",
+  "create_power_loader.brass_chunk_loader.loading_range": "Радиус загрузки чанков",
+  "create.create_power_loader.brass_chunk_loader.load_1x1": "Квадрат 1x1",
+  "create.create_power_loader.brass_chunk_loader.load_3x3": "Квадрат 3x3",
+  "create.create_power_loader.brass_chunk_loader.load_5x5": "Квадрат 5x5",
+
+  "create_power_loader.ponder.empty_chunk_loader_basic.header": "Использование загрузчиков чанков",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "ПКМ по гасту чтобы поймать его в загрузчик чанков",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_2": "Вращение активирует порталы в ядре",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_3": "...Прогружая чанки вокруг",
+
+  "create_power_loader.ponder.andesite_chunk_loader_basic.header": "Базовое использование андезитовый загрузчиков чанков",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_1": "Загрузчик прогружает чанк при поступлении вращения",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_2": "Он не работает при недостаточной скорости вращения",
+
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.header": "Редстоун с Андезитовым Загрузчиком чанков",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_1": "Загрузчик выдаёт сигнал через компаратор во время работы",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_2": "Если вращение прекратилось чанк всё равно останеться прогруженным на некоторое количество времени (настроиваемо)",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_3": "Чанк останеться прогруженным если вращение возабновиться",
+
+  "create_power_loader.ponder.brass_chunk_loader_basic.header": "Базовое использование латунных загрузчиков чанков",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_1": "Загрузчик прогружает чанки вокруг при поступлении вращения",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_2": "Он не работает при недостаточной скорости вращения",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_3": "Можно настроить радиус прогрузки...",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_4": "...но больший радиус требует больше вращения",
+
+  "create_power_loader.ponder.brass_chunk_loader_redstone.header": "Редстоун и латунный загрузчик чанков",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_1": "Загрузчик выдаёт сигнал через компаратор во время работы",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_2": "Если вращение прекратилось чанк всё равно останеться прогруженным на некоторое количество времени (настроиваемо)",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_3": "Чанк останеться прогруженным если вращение возабновиться",
+
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.header": "Прогрузка чанков на штуковинах",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_1": "Латунные загрузчики чанков работают на штуковинах",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_2": "Они всегда прогружают 3x3 квадрат от церта штуковины",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_3": "Когда в собранной штуковине - не требует вращения",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_4": "Также работают на статичных штуковинах",
+
+  "create_power_loader.ponder.brass_chunk_loader_station.header": "Прогрузка чанков на ж/д стациях",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_1": "Латунный загрузчики чанков могут быть прикрепленны к блоку станции",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_2": "Поставте загрузчик правильной стороной к станции",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_3": "Так они не требюут вращения...",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_4": "Но прогружают чанки только когда поезд прибыл к станции в квадрате 3x3",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_5": "После отправления поезда чанки отгружаются",
+
   "block.createdeco.andesite_bars": "Андезитовая решётка",
   "block.createdeco.andesite_bars_overlay": "Полная андезитовая решётка",
   "block.createdeco.andesite_catwalk": "Андезитовый мостик",
